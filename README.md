@@ -8,7 +8,7 @@ Após finalização do `Projeto de Menu em Java`, da disciplina de **Estrutura d
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Python-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/blob/main/assets/icon/VSCode-Dark.sgv">
+| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Python-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
 
 ## Requisitos do Projeto
 
