@@ -2,17 +2,18 @@
 
 Após finalização do `Projeto de Menu em Java`, da disciplina de **Estrutura de Dados** e **Programação Orientada a Obejtos**, ensinadas com a `Linguagem Java`, aproveitei que no segundo semestre de 2022, aprendi também sobre a `Linguagem Python` e resolvi fazer um clone do Projeto de Java, na Linguagem Python, para treinar e fazer comparativos. Ou seja, nesse projeto em questão, foi utilizado todo o modelo do programa em Java para transformar no `Programa de Menu em Python`.
 
-## Resultado do Projeto
+## ✨ Resultado do Projeto
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
 | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Python-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
 
-## Requisitos do Projeto
+## 🗒️ Requisitos do Projeto
 
-#### Projeto - Sistema de Entretenimento:
+> Projeto - Sistema de Entretenimento
+
 Crie um programa em Java(Python) que gerencie um sistema de entretenimento para pessoas. Este sistema deve ter um menu para oferecer opções de lugares para diversão, para comer e beber (pode ter mais coisas, tipo transporte). Cada opção deve ter seu preço. Após captar todos os desejos do usuário, informe quanto deu sua conta total.
 
 #### Exemplo:
@@ -49,18 +50,32 @@ Utilizar estruturas como:
 `switch (opcional)`
 
 
-## Autora:
+### ▶️ Instruções de Uso
+
+1. Clone ou baixe este repositório para a sua máquina local.
+
+2. Certifique-se de ter o [Python](https://www.python.org/downloads/) instalado na sua máquina e a extensão [Pyhton Extension](https://code.visualstudio.com/docs/languages/python) instalado no IDE.
+
+3. Abra a IDE e clique em `View` na barra de menu superior.
+   
+4. Selecione `Terminal` e em seguida `New Terminal` para abrir o terminal integrado.
+   
+5. No terminal navegue até o diretório raiz do projeto.
+   
+6. Para executar digite o comando abaixo e pressione `Enter`:
+```
+python nomedoprograma.py
+```
+  
+## 👩🏼‍💻 Autoria:
 <table>
   <tr>
-    <td>
-      <img width="80px" align="center" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/logo.png"/>
-    </td>
     <td align="left">
       <a href="https://github.com/rhayssakramer">
         <span><b>Rhayssa Kramer</b></span>
       </a>
       <br>
-      <span>Desenvolvedora Full Stack</span>
+      <span>Assoc, Full-Stack Development</span>
     </td>
   </tr>
 </table>
