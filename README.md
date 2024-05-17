@@ -1,6 +1,6 @@
-# Geek Club - Projeto de Menu em Python
+# Geek Club - Menu em Python
 
-Após finalização do `Projeto de Menu em Java`, da disciplina de **Estrutura de Dados** e **Programação Orientada a Obejtos**, ensinadas com a `Linguagem Java`, aproveitei que no segundo semestre de 2022, aprendi também sobre a `Linguagem Python` e resolvi fazer um clone do Projeto de Java, na Linguagem Python, para treinar e fazer comparativos. Ou seja, nesse projeto em questão, foi utilizado todo o modelo do programa em Java para transformar no `Programa de Menu em Python`.
+Após finalização do projeto [GeekClub - Menu em Java](https://github.com/rhayssakramer/GeekClub-Java.git), da disciplina de **Estrutura de Dados** e **Programação Orientada a Obejtos**, ambas ensinadas com a `Linguagem Java`, aproveitei que no segundo semestre de 2022 aprendi também os fundamentos básicos da `Linguagem Python` e resolvi fazer um clone do Projeto de Java, em Python, para treinar e fazer comparativos. Ou seja, nesse projeto em questão, foi utilizado todo o modelo do programa em Java para transformar no `Programa de Menu em Python`.
 
 ## ✨ Resultado do Projeto
 
@@ -14,7 +14,7 @@ Após finalização do `Projeto de Menu em Java`, da disciplina de **Estrutura d
 
 > Projeto - Sistema de Entretenimento
 
-Crie um programa em Java(Python) que gerencie um sistema de entretenimento para pessoas. Este sistema deve ter um menu para oferecer opções de lugares para diversão, para comer e beber (pode ter mais coisas, tipo transporte). Cada opção deve ter seu preço. Após captar todos os desejos do usuário, informe quanto deu sua conta total.
+Crie um programa em Python que gerencie um sistema de entretenimento para pessoas. Este sistema deve ter um menu para oferecer opções de lugares para diversão, para comer e beber (pode ter mais coisas, tipo transporte). Cada opção deve ter seu preço. Após captar todos os desejos do usuário, informe quanto deu sua conta total.
 
 #### Exemplo:
 - Cinema - O exorcista, Brinquedo Assassino, Frozen.
@@ -33,18 +33,15 @@ Crie um programa em Java(Python) que gerencie um sistema de entretenimento para 
 - Todos os dados são capturados pelo console (entrada do usuário).
 - Exibir mensagens apropriadas a cada situação (você tem que interagir com o usuário).
 - O usuário tem a opção de não escolher nada.
-
-Utilizar inteiros para a escolha dos itens:
+- Utilizar inteiros para a escolha dos itens: 
 `(1) Pepsi`
 `(2) Fanta`
 `(3) Coca-cola`
-
-Utilizar pelo menos uma variável:
+- Utilizar pelo menos uma variável:
 `String`
 `Int`
 `Double`
-
-Utilizar estruturas como:
+- Utilizar estruturas como:
 `if / else`
 `if / else if / else`
 `switch (opcional)`
@@ -67,8 +64,13 @@ Utilizar estruturas como:
 python nomedoprograma.py
 ```
   
+## 🔗 Créditos
+Este projeto foi um clone do projeto desenvolvido como parte de avaliação das disciplinas de `Estrutura de Dados` e `Programação Orientado a Objetos`, para avaliar o ensinado em sala, sobre os fundamentos básicos aplicados na Linguagem `Python`.
+
+*Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial.*
+  
 ## 👩🏼‍💻 Autoria:
-<table>
+<table style="border=0">
   <tr>
     <td align="left">
       <a href="https://github.com/rhayssakramer">
@@ -80,5 +82,4 @@ python nomedoprograma.py
   </tr>
 </table>
 
-##
-<div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a>.</div>
+### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
