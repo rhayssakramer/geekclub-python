@@ -1,14 +1,63 @@
+<div align="center">
+
+<img src="./img/logo.png" width="30">  
+
 # Geek Club - Menu em Python
 
-Após finalização do projeto [GeekClub - Menu em Java](https://github.com/rhayssakramer/GeekClub-Java.git), da disciplina de **Estrutura de Dados** e **Programação Orientada a Obejtos**, ambas ensinadas com a `Linguagem Java`, aproveitei que no segundo semestre de 2022 aprendi também os fundamentos básicos da `Linguagem Python` e resolvi fazer um clone do Projeto de Java, em Python, para treinar e fazer comparativos. Ou seja, nesse projeto em questão, foi utilizado todo o modelo do programa em Java para transformar no `Programa de Menu em Python`.
+**Sistema interativo de entretenimento para praticar Python.**  
+*Aprende estruturas de dados e programação enquanto constrói um menu funcional.*
+
+[![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)](#%EF%B8%8F-stack)
+
+</div>
+
+---
+
+## 📑 Sumário
+
+- [O que é isso](#-o-que-é-isso)
+- [Resultado do Projeto](#-resultado-do-projeto)
+- [Tecnologias](#-tecnologias)
+- [Estrutura](#-estrutura)
+- [Requisitos do Projeto](#-requisitos-do-projeto)
+- [Instruções de Uso](#-instruções-de-uso)
+- [Créditos](#-créditos)
+- [Autora](#-autora)
+
+---
+
+## 🎯 O que é isso
+
+Esse foi um projeto de encerramento da disciplina de **Estrutura de Dados** e **Programação Orientada a Objetos**, com foco na linguagem `Java`. Após finalizar o projeto [GeekClub - Menu em Java](https://github.com/rhayssakramer/GeekClub-Java.git), aproveitei que aprendi os fundamentos básicos da `Linguagem Python` e resolvi fazer um clone do Projeto de Java em Python, para treinar, fazer comparativos e consolidar o conhecimento entre as duas linguagens.
 
 ## ✨ Resultado do Projeto
 
-## 🛠️ Tecnologias Utilizadas
+<img src="./img/image-1.png">
+<img src="./img/image-2.png">
+<img src="./img/image-3.png">
+<img src="./img/image-4.png">
+
+## 🛠️ Tecnologias
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/Python-Dark.svg"> | <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/icon/VSCode-Dark.svg">
+| <img height="40" src="https://skillicons.dev/icons?i=python"> | <img height="40" src="https://skillicons.dev/icons?i=vscode">
+
+---
+
+## 📁 Estrutura
+
+```
+geekclub-python/
+├── README.md                 # Documentação do projeto
+├── App.py                    # Arquivo principal com o programa completo
+└── img/                      # Imagens e recursos visuais
+    └── logo.png
+```
+
+**Descrição:**
+- **App.py** - Arquivo principal contendo todo o código fonte Python do projeto
+- **img/** - Armazena as imagens da documentação e visual do projeto
 
 ## 🗒️ Requisitos do Projeto
 
@@ -46,40 +95,59 @@ Crie um programa em Python que gerencie um sistema de entretenimento para pessoa
 `if / else if / else`
 `switch (opcional)`
 
+---
 
-### ▶️ Instruções de Uso
+## ▶️ Instruções de Uso
 
 1. Clone ou baixe este repositório para a sua máquina local.
 
-2. Certifique-se de ter o [Python](https://www.python.org/downloads/) instalado na sua máquina e a extensão [Pyhton Extension](https://code.visualstudio.com/docs/languages/python) instalado no IDE.
+2. Certifique-se de ter o [Python](https://www.python.org/downloads/) instalado na sua máquina.
 
-3. Abra a IDE e clique em `View` na barra de menu superior.
-   
-4. Selecione `Terminal` e em seguida `New Terminal` para abrir o terminal integrado.
-   
-5. No terminal navegue até o diretório raiz do projeto.
-   
-6. Para executar digite o comando abaixo e pressione `Enter`:
+3. Abra a IDE (VS Code recomendado) e certifique-se de ter a extensão [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) instalada.
+
+4. Abra o terminal integrado: clique em `View` → `Terminal` → `New Terminal`.
+
+5. Navegue até o diretório raiz do projeto.
+
+6. Para executar o programa, digite o comando abaixo e pressione `Enter`:
 ```
-python nomedoprograma.py
+python App.py
 ```
-  
+
+---
+
 ## 🔗 Créditos
-Este projeto foi um clone do projeto desenvolvido como parte de avaliação das disciplinas de `Estrutura de Dados` e `Programação Orientado a Objetos`, para avaliar o ensinado em sala, sobre os fundamentos básicos aplicados na Linguagem `Python`.
+
+Este projeto foi um clone do projeto desenvolvido como parte de avaliação das disciplinas de `Estrutura de Dados` e `Programação Orientada a Objetos`, com o objetivo de avaliar o aprendizado sobre os fundamentos básicos da `Linguagem Python`.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial.*
-  
-## 👩🏼‍💻 Autoria:
-<table style="border=0">
+
+---
+
+## 👩🏼‍💻 Autora
+
+<table>
   <tr>
     <td align="left">
       <a href="https://github.com/rhayssakramer">
-        <span><b>Rhayssa Kramer</b></span>
+        <strong>Rhayssa Kramer</strong>
       </a>
       <br>
       <span>Assoc, Full-Stack Development</span>
+      <br>
+      <small>Avanade | Tech Content Creator | Community Speaker</small>
     </td>
   </tr>
 </table>
 
-### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
+---
+
+<div align="center">
+
+### ⭐ Se este projeto foi útil, considere deixar uma estrela no GitHub!
+
+© 2026 Rhayssa Kramer. Todos os direitos reservados.
+
+<a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/rodape.png" width="100%"></a>
+
+</div>
